@@ -1,0 +1,72 @@
+{
+  "Chest": [
+    "Push-ups",
+    "Flat Bench Press",
+    "Incline Dumbbell Press",
+    "Decline Bench Press",
+    "Cable Crossovers",
+    "Chest Dips"
+  ],
+  "Back": [
+    "Pull-ups",
+    "Deadlift",
+    "Lat Pulldown",
+    "Barbell Rows",
+    "Seated Cable Row",
+    "T-Bar Row"
+  ],
+  "Legs": [
+    "Squats",
+    "Lunges",
+    "Leg Press",
+    "Leg Extension",
+    "Hamstring Curl",
+    "Calf Raises"
+  ],
+  "Biceps": [
+    "Barbell Curl",
+    "Dumbbell Curl",
+    "Hammer Curl",
+    "Concentration Curl",
+    "Cable Curl"
+  ],
+  "Triceps": [
+    "Tricep Dips",
+    "Skull Crushers",
+    "Overhead Tricep Extension",
+    "Cable Pushdown",
+    "Close-Grip Bench Press"
+  ],
+  "Shoulders": [
+    "Overhead Press",
+    "Lateral Raise",
+    "Front Raise",
+    "Rear Delt Fly",
+    "Arnold Press",
+    "Shrugs"
+  ],
+  "Abs": [
+    "Crunches",
+    "Leg Raises",
+    "Plank",
+    "Russian Twists",
+    "Mountain Climbers",
+    "Bicycle Crunches"
+  ],
+  "Cardio": [
+    "Running",
+    "Cycling",
+    "Jump Rope",
+    "Burpees",
+    "High Knees",
+    "Rowing Machine"
+  ],
+  "Full Body": [
+    "Burpees",
+    "Mountain Climbers",
+    "Jump Squats",
+    "Kettlebell Swings",
+    "Clean and Press",
+    "Snatch"
+  ]
+}

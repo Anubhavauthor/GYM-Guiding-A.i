@@ -1,0 +1,155 @@
+{
+  "Monday": [
+    {
+      "exercise": "Bench Press",
+      "sets": 4,
+      "reps": 10,
+      "youtube": "https://www.youtube.com/watch?v=gRVjAtPip0Y"
+    },
+    {
+      "exercise": "Incline Dumbbell Press",
+      "sets": 3,
+      "reps": 12,
+      "youtube": "https://www.youtube.com/watch?v=8iPEnn-ltC8"
+    },
+    {
+      "exercise": "Chest Fly",
+      "sets": 3,
+      "reps": 12,
+      "youtube": "https://www.youtube.com/watch?v=eozdVDA78K0"
+    },
+    {
+      "exercise": "Triceps Pushdown",
+      "sets": 3,
+      "reps": 12,
+      "youtube": "https://www.youtube.com/watch?v=vB5OHsJ3EME"
+    },
+    {
+      "exercise": "Overhead Triceps Extension",
+      "sets": 3,
+      "reps": 10,
+      "youtube": "https://www.youtube.com/watch?v=_gsUck-7M74"
+    }
+  ],
+  "Tuesday": [
+    {
+      "exercise": "Lat Pulldown",
+      "sets": 4,
+      "reps": 12,
+      "youtube": "https://www.youtube.com/watch?v=CAwf7n6Luuc"
+    },
+    {
+      "exercise": "Seated Row",
+      "sets": 3,
+      "reps": 10,
+      "youtube": "https://www.youtube.com/watch?v=IzoAkaxzV48"
+    },
+    {
+      "exercise": "Deadlifts",
+      "sets": 3,
+      "reps": 6,
+      "youtube": "https://www.youtube.com/watch?v=op9kVnSso6Q"
+    },
+    {
+      "exercise": "Bicep Curls",
+      "sets": 3,
+      "reps": 12,
+      "youtube": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+    },
+    {
+      "exercise": "Hammer Curls",
+      "sets": 3,
+      "reps": 10,
+      "youtube": "https://www.youtube.com/watch?v=zC3nLlEvin4"
+    }
+  ],
+  "Wednesday": [
+    {
+      "exercise": "Plank",
+      "sets": 3,
+      "reps": "30 sec",
+      "youtube": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+    },
+    {
+      "exercise": "Hanging Leg Raise",
+      "sets": 3,
+      "reps": 15,
+      "youtube": "https://www.youtube.com/watch?v=6kALZikXxLc"
+    }
+  ],
+  "Thursday": [
+    {
+      "exercise": "Shoulder Press",
+      "sets": 4,
+      "reps": 10,
+      "youtube": "https://www.youtube.com/watch?v=qEwKCR5JCog"
+    },
+    {
+      "exercise": "Lateral Raise",
+      "sets": 3,
+      "reps": 12,
+      "youtube": "https://www.youtube.com/watch?v=3VcKaXpzqRo"
+    },
+    {
+      "exercise": "Front Raise",
+      "sets": 3,
+      "reps": 12,
+      "youtube": "https://www.youtube.com/watch?v=-t7fuZ0KhDA"
+    },
+    {
+      "exercise": "Plank",
+      "sets": 3,
+      "reps": "30 sec",
+      "youtube": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+    },
+    {
+      "exercise": "Hanging Leg Raise",
+      "sets": 3,
+      "reps": 15,
+      "youtube": "https://www.youtube.com/watch?v=6kALZikXxLc"
+    }
+  ],
+  "Friday": [
+    {
+      "exercise": "Squats",
+      "sets": 4,
+      "reps": 10,
+      "youtube": "https://www.youtube.com/watch?v=aclHkVaku9U"
+    },
+    {
+      "exercise": "Leg Press",
+      "sets": 3,
+      "reps": 12,
+      "youtube": "https://www.youtube.com/watch?v=IZxyjW7MPJQ"
+    },
+    {
+      "exercise": "Leg Curl",
+      "sets": 3,
+      "reps": 12,
+      "youtube": "https://www.youtube.com/watch?v=1Tq3QdYUuHs"
+    },
+    {
+      "exercise": "Calf Raise",
+      "sets": 3,
+      "reps": 15,
+      "youtube": "https://www.youtube.com/watch?v=-M4-G8p8fmc"
+    }
+  ],
+  "Saturday": [],
+  "Sunday": [
+     {
+      "exercise": "Push Ups",
+      "sets": 3,
+      "reps": 15,
+      "youtube": "https://www.youtube.com/watch?v=_l3ySVKYVJ8"
+    },
+    {
+      "exercise": "Squats",
+      "sets": 3,
+      "reps": 20,
+      "youtube": "https://www.youtube.com/watch?v=aclHkVaku9U"
+    }
+
+
+  ]
+}
